@@ -7,4 +7,9 @@ data/
 __pycache__/
 *.pyc
 .env
-config.py
+config.py*.pdf
+*.docx
+*.doc
+touch
+.vscode/
+~*
